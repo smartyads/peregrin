@@ -54,4 +54,4 @@ And that's it.
 
 =====================SUPPORT AND MAINTENANCE:============================
 
-To get a contributor access, clone from repo or in case of any errors, email to vlad.belogorodskiy@gmail.com
+To get a contributor access, clone from repo or in case of any errors, email to vladislav@smartyads.com
