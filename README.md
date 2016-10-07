@@ -11,7 +11,7 @@ map.txt - file where you can specify pages to test
 ! ALL URLs must be specified with excact protocol, as it is done in URL string of browser
 
 
-config.py - configuration and system constants, that can be changed with simple text editors:
+Сonfigurations section - configuration and system constants, that can be changed with simple text editors:
 
     MAP_FILE = 'map.txt' -- map file, 'map.txt' by default. If you want to specify some additional tests, pages can be
                             added to other file and you will need to specify it before running tests
